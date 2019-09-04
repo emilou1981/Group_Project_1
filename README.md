@@ -32,21 +32,23 @@ Do obesity rates in US counties have strong correlations with demographical and 
 
 The results of scatter plots and trendlines of the relationships of the obesity rates versus the other individual independent variables are as the following. The relationship of the obesity rates versus unemployment rates or SNAP recipient rates is a positive one. The relationship is negative between the obesity rates versus income per capita, some college or high school graduate percent. The high school graduate percent and obesity rate relationship is weaker compared to the other relationships. The relationships form around the range of 20% - 40% obesity rates.
 
-<img src="/Users/emilywehrmeyer/Group_Project_1/Markdown Images/Screen Shot 2019-09-03 at 5.52.50 PM.png" style="zoom: 50%;" />
+<img src="Markdown Images/Screen Shot 2019-09-03 at 5.52.50 PM.png" alt="Obesity vs. Unemployment Rate" style="zoom:50%;" />
 
-<img src="/Users/emilywehrmeyer/Group_Project_1/Markdown Images/Screen Shot 2019-09-03 at 5.53.02 PM.png" style="zoom: 50%;" />
+<img src="Markdown Images/Screen Shot 2019-09-03 at 5.53.02 PM.png" alt="Obesity vs. SNAP Recipents" style="zoom:50%;" />
 
-<img src="/Users/emilywehrmeyer/Group_Project_1/Markdown Images/Screen Shot 2019-09-03 at 5.54.36 PM.png" style="zoom: 50%;" />
+<img src="Markdown Images/Screen Shot 2019-09-03 at 5.54.36 PM.png" alt="Obesity vs. Income per Capita" style="zoom:50%;" />
 
-<img src="/Users/emilywehrmeyer/Group_Project_1/Markdown Images/Screen Shot 2019-09-03 at 5.54.57 PM.png" style="zoom: 50%;" />
+<img src="Markdown Images/Screen Shot 2019-09-03 at 5.54.57 PM.png" alt="Obesity vs. Some College" style="zoom:50%;" />
 
-<img src="/Users/emilywehrmeyer/Group_Project_1/Markdown Images/Screen Shot 2019-09-03 at 5.55.13 PM.png" style="zoom: 50%;" />
+<img src="Markdown Images/Screen Shot 2019-09-03 at 5.55.13 PM.png" alt="Obesity vs. High School Graduation Rate" style="zoom:50%;" />
+
+
 
 -   **Multiple Regression**
 
 The results of the first multiple regression model show multicollinearity issues with positive sign on the coefficient of high school graduate rates. One or more variables are removed at times to resolve multicollinearity. The predictive model of obesity rate for this project has two predictors, SNAP recipient rate and some college percent. The significant F-test and P-value of the final model provides evidence for us to conclude that the obesity rate is significantly determined by SNAP recipient rate and some college percentage.
 
-<img src="/Users/emilywehrmeyer/Group_Project_1/Markdown Images/Screen Shot 2019-09-03 at 5.55.42 PM.png" style="zoom:50%;" />
+<img src="Markdown Images/Screen Shot 2019-09-03 at 5.55.42 PM.png" alt="Regression Analysis" style="zoom:50%;" />
 
 
 
@@ -54,11 +56,9 @@ The results of the first multiple regression model show multicollinearity issues
 
 The results of the correlation matrix support our aforementioned findings and conclude this project. The map reflects the findings using scatter plots and trendlines. It also shows correlations among independent variables which cause multicollinearity; e.g., positive strong correlations between unemployment rate and SNAP recipient rates and positive correlation between some college percent and income per capita.
 
-<<<<<<< HEAD
 <img src="Markdown Images/Screen Shot 2019-09-03 at 5.55.56 PM.png" alt="image of correlation matrix" style="zoom:50%;" />
 =======
-<img src="Markdown Images/Screen Shot 2019-09-03 at 5.55.56 PM.png"
->>>>>>> bcbb660ae6c2ad5e64e291a13db26c590f495f12
+
 
 **Conclusion **
 

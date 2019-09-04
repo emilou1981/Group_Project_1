@@ -2,7 +2,7 @@
 
 This project investigates US county obesity rates and possible economic and demographic linkages using 2016 data from the US Census Bureau, Bureau of Economic Analysis, and County Health Rankings & Roadmaps. All data are at the county level.
 
-**Technical Requirements **
+**Technical Requirements**
 
 For this analysis, the following additional libraries were used within the Pandas and Jupyter Notebook: 
 

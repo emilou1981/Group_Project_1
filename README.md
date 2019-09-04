@@ -60,6 +60,6 @@ The results of the correlation matrix support our aforementioned findings and co
 
 
 
-**Conclusion **
+**Conclusion**
 
 According to the above findings, there is evidence to conclude that US county SNAP benefits, education levels, income per capita, and unemployment rates are possible linkages to US county obesity rates. Some linkages are positive whereas others are negative and/or weak. The implication, however, suggests against using all variables as predictors of the US county obesity rates together in one model since some of these predictors also have strong correlations among themselves. A model which resolves multicollinearity is presented. However, further tests of the model residuals beyond this project are highly recommended prior to using the predictive model. Exploratory factor analysis and a systematic algorithmic method for finding a suitable model would also be helpful.

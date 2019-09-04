@@ -54,7 +54,11 @@ The results of the first multiple regression model show multicollinearity issues
 
 The results of the correlation matrix support our aforementioned findings and conclude this project. The map reflects the findings using scatter plots and trendlines. It also shows correlations among independent variables which cause multicollinearity; e.g., positive strong correlations between unemployment rate and SNAP recipient rates and positive correlation between some college percent and income per capita.
 
+<<<<<<< HEAD
 <img src="Markdown Images/Screen Shot 2019-09-03 at 5.55.56 PM.png" alt="image of correlation matrix" style="zoom:50%;" />
+=======
+<img src="Markdown Images/Screen Shot 2019-09-03 at 5.55.56 PM.png"
+>>>>>>> bcbb660ae6c2ad5e64e291a13db26c590f495f12
 
 **Conclusion **
 
